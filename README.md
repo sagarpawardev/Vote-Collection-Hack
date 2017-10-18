@@ -1,7 +1,9 @@
 # Vote-Collection-Hack Experience Story
 This is documentation of Hacking steps I used to collect vote in a competition
 
-The website where I was is not using login for vote but every IP can vote just once.
+I was in a competetion where we need to gather as many votes as we can to win the competition and need to remain at the top.
+
+The website where I was in competion, is not using login for vote but every IP can vote just once.
 
 ## Using Postman
 - First thing I need to find the API which is getting called on button click. So I found out using chrome Inspect Elements
